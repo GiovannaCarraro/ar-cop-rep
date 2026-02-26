@@ -1,0 +1,19 @@
+. --> cria classe
+# -- cria um ID
+$ -- dados variáveis 
+> -- cria um filho (coloca dentro)
+{} -- escrver um texto no elemento
+[] -- Inclui atribuos no elemento
++ -- cria um elemento filo no mesmo nivel
+* -- cria varios elementos
+() -- envelopa os comandos do emmet
+Ex:
+
+<header>
+<h1></h1>
+</header>
+<section>
+<h2></h2>
+</section>
+
+(header>h1)+(section>h2)

@@ -1,0 +1,20 @@
+{
+  "name": "ar-cop-rep",
+  "version": "1.0.0",
+  "description": "Projeto que irá unificar todos os apps desenvolvidos em sala de aula, para facilitar a consulta do codigo.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "organização",
+    "atenção",
+    "comentarios",
+    "boas",
+    "práticas"
+  ],
+  "author": "Giovanna Carraro",
+  "license": "ISC",
+  "git-repository": "https://"
+}
