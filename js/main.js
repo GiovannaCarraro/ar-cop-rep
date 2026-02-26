@@ -18,6 +18,11 @@ btnP3.addEventListener('click', function(){
 
 
 
+// Arrow Function 
+const uva = () => 'Sou uma fruta';
 
+function uva(){
+    return 'Sou uma fruta'
+}
 
 
