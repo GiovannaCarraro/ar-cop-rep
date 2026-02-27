@@ -1,6 +1,6 @@
 :root{
-    --primary-color: #6366f1;
-    --primary-hover: #4f46e5;
+    --primary-color: #f7b1f3;
+    --primary-hover: #e660d4;
     --bg-color: #f8fafc;
     --text-color: #1e293b;
     --white: #ffffff;
@@ -49,7 +49,7 @@ body{
 }
 
 .project__button-group input[type="button"]:hover, button:hover{
-    background-color: var(--primary-color);
+    background-color: var(--primary-hover);
     transform: translateY(-2px);
     box-shadow: 0 10px 15px -3px rgb(0, 0, 0 / 0.1);
 }
