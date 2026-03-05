@@ -1,6 +1,7 @@
 const btnP1 = document.querySelector('#inputP1');
 const btnP2 = document.querySelector('#inputP2');
 const btnP3 = document.querySelector('#inputP3');
+const btnP4 = document.querySelector('#inputP4');
 
 // método addEventListener c função anonima
 
@@ -14,6 +15,10 @@ btnP2.addEventListener('click', function(){
 
 btnP3.addEventListener('click', function(){
     window.location.href='./pages/projeto03.html'
+});
+
+btnP4.addEventListener('click', function(){
+    window.location.href='./pages/projeto04.html'
 });
 
 
